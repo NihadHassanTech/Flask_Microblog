@@ -87,3 +87,4 @@ werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'index'
 2023-02-01 13:00:43,018 INFO: Microblog startup [in /home/nihad/FLASK MICROBLOG/Flask_Microblog/app/__init__.py:75]
 2023-02-01 13:01:45,076 INFO: Microblog startup [in /home/nihad/FLASK MICROBLOG/Flask_Microblog/app/__init__.py:75]
 2023-02-01 15:04:55,057 INFO: Microblog startup [in /home/nihad/FLASK MICROBLOG/Flask_Microblog/app/__init__.py:80]
+2023-02-01 16:05:24,047 INFO: Microblog startup [in /home/nihad/FLASK MICROBLOG/Flask_Microblog/app/__init__.py:80]
