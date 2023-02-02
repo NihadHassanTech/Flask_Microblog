@@ -5,4 +5,3 @@ Vagrant.configure("2") do |config|
       vb.memory = "2048"
     end
   end
-  
